@@ -21,11 +21,11 @@
 
 | Register | Login |
 |---|---|
-| ![Register page](docs/screenshots/register.webp) | ![Login page](docs/screenshots/login.webp) |
+| ![Register page](screenshots/register.webp) | ![Login page](screenshots/login.webp) |
 
 | Dashboard (Board view) | Create Task |
 |---|---|
-| ![Dashboard with stats and Kanban board](docs/screenshots/dashboard.webp) | ![New task modal](docs/screenshots/new-task.webp) |
+| ![Dashboard with stats and Kanban board](screenshots/dashboard.webp) | ![New task modal](screenshots/new-task.webp) |
 
 ---
 
