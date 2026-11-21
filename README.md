@@ -122,7 +122,7 @@ task-manager/
 │       ├── routes/            # Routes + validation rules
 │       ├── middleware/        # JWT auth, validation, error handling
 │       └── app.js / index.js
-└── docs/screenshots/
+└── screenshots/
 ```
 
 ---
